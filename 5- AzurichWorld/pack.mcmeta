@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 22,
+    "description": "\u00a7f\u25ba\u00a7a 1.20.4\u00a7r\n\u00a7f\u25ba \u00a76By Azurich",
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 22
+    }
+  }
+}
