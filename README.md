@@ -32,10 +32,6 @@ Pour installer ces packs de textures dans votre jeu Minecraft, suivez les étape
 
 Si vous rencontrez des problèmes avec l'un des packs de textures, veuillez ouvrir une issue sur ce dépôt. Nous ferons de notre mieux pour répondre rapidement et résoudre tout problème.
 
-## Remerciements
-
-Merci à tous les créateurs de contenu et à la communauté Minecraft pour leur soutien et leurs contributions.
-
 ## Licence
 
 Ce projet n'est pas sous licence et totalement libre.
