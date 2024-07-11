@@ -1,6 +1,8 @@
+![Minecraft Title](https://i.ibb.co/Hz3rYVm/minecraft-titleeee.png)
+
 # Season World - Minecraft Custom Texture Packs
 
-Bienvenue dans le dépôt officiel des packs de textures personnalisés pour le modpack [Season World](https://modrinth.com/modpack/season-world) disponible sur Modrinth !
+Bienvenue dans le dépôt officiel des packs de textures personnalisés pour le modpack [Season World](https://modrinth.com/modpack/seasonworld) disponible sur Modrinth !
 
 ## Contenu du dépôt
 
