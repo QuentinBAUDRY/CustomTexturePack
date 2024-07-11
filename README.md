@@ -7,8 +7,8 @@ Bienvenue dans le dépôt officiel des packs de textures personnalisés pour le 
 
 Ce dépôt contient deux packs de textures personnalisés conçus spécifiquement pour améliorer votre expérience de jeu avec le modpack Season World :
 
-1. **[Titile Screen]** : Écran d'accueil minecraft plus beau.
-2. **[AzurichWorld]** : Pack fait uniquement pour le serveur AzurichWorld.
+1. **Titile Screen** : Écran d'accueil minecraft plus beau.
+2. **AzurichWorld** : Pack fait uniquement pour le serveur AzurichWorld.
 
 ## Installation des Packs de Textures
 
